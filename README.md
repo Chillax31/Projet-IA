@@ -36,9 +36,11 @@ Le projet a été réalisé avec **Python 3**, dans un environnement **VS Code +
    └── datas.csv                                                                                  # (à ajouter manuellement - non inclus)
    └── TP_Classification_Trafic_Ndiaya_GUEYE_&_LOUNGOU_BIYENDOLO_Quentin_Evrard_VCC_M1.ipynb      # Exploration et prétraitement, Entraînement des modèles, Visualisations et analyse comparative
    └── README.md                                                                                  # Présentation du projet
-   └── requirements.txt                                                                           # Bibliothèques Python requises
+   └── requirements.txt                                                                          # Bibliothèques Python requises
 
-📌 Auteurs & encadrement
+---
+
+## 📌 Auteurs & encadrement
 Étudiants : Ndiaya_GUEYE_&_LOUNGOU_BIYENDOLO_Quentin_Evrard_VCC_M1
 
 Encadrant pédagogique : M. SY
